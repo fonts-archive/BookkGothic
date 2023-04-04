@@ -15,7 +15,7 @@ font-family: 'Bookk Gothic';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic.css" type="text/css"/>
 ```
 
 &nbsp;
