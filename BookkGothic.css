@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Light.ttr') format('truetype');
 }
 @font-face {
@@ -14,5 +15,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/BookkGothic/BookkGothic-Bold.ttf') format('truetype');
 }
